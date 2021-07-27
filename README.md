@@ -2,8 +2,11 @@
 
 ## Work Breakdown by Team Member:
 Presentation: Alexis Marks
+
 Github setup: Alexis Marks
+
 Machine Learning Model: Ali Ahrabi, Laurencio Leyva
+
 Database: Doris Tai, Laurencio Leyva
 
 ## Communication Protocols:
