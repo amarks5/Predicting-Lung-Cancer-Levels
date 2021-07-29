@@ -16,7 +16,7 @@ Database: Doris Tai, Laurencio Leyva
 Zoom and Slack are our main form of communication. We are available throughout the day via slack. We are meeting on Zoom Tuesday nights. In addition, we have also exchanged email addresses and phone numbers.  
 
 ## Topic:
-Looking for patterns between reported symptoms and severity of a patient's lung cancer. 
+Suscepitibility to lung cancer based on lifestyle and demographic paramters such as age, gender, alcohol use, genetic risk, and smoking. 
 
 ## Reason For Topic:
 
@@ -25,4 +25,4 @@ This dataset was sourced from Kaggle, a community forum of datasets. It shows th
 [Link to Data Source](https://www.kaggle.com/rishidamarla/cancer-patients-data)
 
 ## Questions to Answer:
-Which aspects of a persons lifestyle would make them most susceptible to lung cancer? We analyzed the data of 1000 lung cancer patients with respect to different parameters such as their Age, Gender, Alcohol Use, Genetic Risk and Smoking. The purpose is to predict which lifestyle choices would lead to lung cancer.
+Which aspects of a persons lifestyle would make them most susceptible to lung cancer? We analyzed the data of 1000 lung cancer patients with respect to different parameters such as their age, gender, alcohol use, genetic risk, and smoking. The purpose is to predict which lifestyle choices would lead to lung cancer.
