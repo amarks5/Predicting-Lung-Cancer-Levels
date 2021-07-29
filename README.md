@@ -23,4 +23,4 @@ Looking for patterns between reported symptoms and severity of a patient's lung 
 ## Description of Data Source:
 
 ## Questions to Answer:
-Based on symptoms and demographics, can we predict what is the severity of a patient's lung cancer?
+Which aspects of a persons lifestyle would make them most susceptible to lung cancer? We analyzed the data of 1000 lung cancer patients with respect to different parameters such as their Age, Gender, Alcohol Use, Genetic Risk and Smoking. The purpose is to predict which lifestyle choices would lead to lung cancer.
