@@ -20,7 +20,7 @@ Patient's lung cancer severity level
 
 
 ## Reason For Topic:
-One of the biggest challenges with cancer patient survival 
+Looking for patterns between reported symptoms and severity of a patient's lung cancer. 
 ## Description of Data Source:
 
 ## Questions to Answer:
