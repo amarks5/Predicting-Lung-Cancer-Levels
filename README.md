@@ -21,6 +21,8 @@ Looking for patterns between reported symptoms and severity of a patient's lung 
 ## Reason For Topic:
 
 ## Description of Data Source:
+This dataset was sourced from Kaggle, a community forum of datasets. It shows the demographic and lifestyle data of 100 lung cancer patients.
+[Link to Data Source](https://www.kaggle.com/rishidamarla/cancer-patients-data)
 
 ## Questions to Answer:
 Which aspects of a persons lifestyle would make them most susceptible to lung cancer? We analyzed the data of 1000 lung cancer patients with respect to different parameters such as their Age, Gender, Alcohol Use, Genetic Risk and Smoking. The purpose is to predict which lifestyle choices would lead to lung cancer.
