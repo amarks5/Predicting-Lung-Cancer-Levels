@@ -16,11 +16,10 @@ Database: Doris Tai, Laurencio Leyva
 Zoom and Slack are our main form of communication. We are available throughout the day via slack. We are meeting on Zoom Tuesday nights. In addition, we have also exchanged email addresses and phone numbers.  
 
 ## Topic:
-Patient's lung cancer severity level
-
+Looking for patterns between reported symptoms and severity of a patient's lung cancer. 
 
 ## Reason For Topic:
-Looking for patterns between reported symptoms and severity of a patient's lung cancer. 
+
 ## Description of Data Source:
 
 ## Questions to Answer:
