@@ -1,9 +1,9 @@
 # final_project
 
 ## Work Breakdown by Team Member:
-Presentation: Alexis Marks
+Presentation: Alexis Marks, Jesse Singh
 
-Github setup: Alexis Marks
+Github setup: Alexis Marks, Jesse Singh
 
 Machine Learning Model: Ali Ahrabi, Laurencio Leyva
 
