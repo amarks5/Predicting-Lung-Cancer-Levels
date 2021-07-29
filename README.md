@@ -10,9 +10,8 @@ Machine Learning Model: Ali Ahrabi, Laurencio Leyva
 Database: Doris Tai, Laurencio Leyva
 
 ## Resources
- - Data: cancer_patient_data_sets.xlsx(https://data.world/cancerdatahp/lung-cancer-data/workspace/file?filename=cancer+patient+level%20data+sets.xlsx)
+ - Data: [Link to Dataset](https://www.kaggle.com/rishidamarla/cancer-patients-data)
  - Software: 
-   Supervised Machine Learning
 ## Communication Protocols:
 Zoom and Slack are our main form of communication. We are available throughout the day via slack. We are meeting on Zoom Tuesday nights. In addition, we have also exchanged email addresses and phone numbers.  
 
