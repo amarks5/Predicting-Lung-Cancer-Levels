@@ -19,7 +19,7 @@ Zoom and Slack are our main form of communication. We are available throughout t
 Suscepitibility to lung cancer based on lifestyle and demographic paramters such as age, gender, alcohol use, genetic risk, and smoking. 
 
 ## Reason For Topic:
-
+Being able to predict and determine the level or stage of cancer a patient has greatly affects their treatment options. 
 ## Description of Data Source:
 This dataset was sourced from Kaggle, a community forum of datasets. It shows the demographic and lifestyle data of 100 lung cancer patients.
 [Link to Data Source](https://www.kaggle.com/rishidamarla/cancer-patients-data)
