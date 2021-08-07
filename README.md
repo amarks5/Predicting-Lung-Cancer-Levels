@@ -24,6 +24,7 @@ Patient's lung cancer severity level
 Being able to define a patient's risk level of getting lung cancer can help them make changes in lifestyle choices to avoid contraction.
 
 ## Description of Data Source:
+This dataset was sources from Kaggle, a community form of datasets. It shows the demographic and lifestyle data of 1000 lung cancer patients.
 
 ## Questions to Answer:
 Based on symptoms and demographics, can we predict what is the severity of a patient's lung cancer?
