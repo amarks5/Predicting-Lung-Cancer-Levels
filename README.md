@@ -12,7 +12,7 @@ Database: Doris Tai, Laurencio Leyva
 Dashboard: Alexis Marks, Jesse Singh
 ## Resources
  - Data: [Link to Dataset](https://www.kaggle.com/rishidamarla/cancer-patients-data)
- - Software: 
+ - Software: Excel, Python, Pandas, Numpy, Matplotlib, Seaborn, Sklearn
 
 ## Tools
   - Supervised Machine Learning
