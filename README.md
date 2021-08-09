@@ -20,9 +20,9 @@ Dashboard: Alexis Marks, Jesse Singh
   - train_test_split from sklearn.model_selection
   - StandardScaler from sklearn.preprocessing
   - Pipeline from sklearn.pipeline
-  - Support Vector Classification
-  - DecisionTreeClassifier
-  - RandomForestClassifier
+  - Support Vector Classification (categorical data) 
+  - DecisionTreeClassifier(categorical data)
+  - RandomForestClassifier(categorical data)
   - 
 
   
