@@ -33,7 +33,8 @@ We will primarily communicate through the Zoom and Slack platforms.  We have sch
 The susceptibility to lung cancer based on the following 23 lifestyle and demographic variables: age, gender, air pollution, alcohol use, dust allergy, occupational hazards, genetic risk, chronic lung disease, balanced diet, obesity, smoking, passive smoker, chest pain, coughing of blood, fatigue, weight loss, shortness of breath, wheezing, swallowing difficulty, clubbing of finger nails, frequent cold, dry cough, and snoring.  
 
 ## Reason For Topic:
-Understanding the Being able to predict and determine the level or stage of cancer a patient has greatly affects their treatment options. 
+The ability to predict and determine the level of lung cancer of a patient will add significant clinical value for the development of therapies to treat and diagnose the disease. 
+
 ## Description of Data Source:
 This dataset was sourced from Kaggle, a community forum of datasets. It shows the demographic and lifestyle data of 100 lung cancer patients.
 [Link to Data Source](https://www.kaggle.com/rishidamarla/cancer-patients-data)
