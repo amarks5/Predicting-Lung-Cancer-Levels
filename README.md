@@ -30,10 +30,10 @@ Dashboard: Alexis Marks, Jesse Singh
 We will primarily communicate through the Zoom and Slack platforms.  We have scheduled a Zoom call on Tuesday nights and confirmed everyone is available throughout the day via Slack.  In addition, we have exchanged email addresses and phone numbers as alternative forms of communication. 
 
 ## Topic:
-Susceptibility to lung cancer based on lifestyle and demographic variables such as age, gender, alcohol use, genetic risk, and smoking. 
+The susceptibility to lung cancer based on the following 23 lifestyle and demographic variables: age, gender, air pollution, alcohol use, dust allergy, occupational hazards, genetic risk, chronic lung disease, balanced diet, obesity, smoking, passive smoker, chest pain, coughing of blood, fatigue, weight loss, shortness of breath, wheezing, swallowing difficulty, clubbing of finger nails, frequent cold, dry cough, and snoring.  
 
 ## Reason For Topic:
-Being able to predict and determine the level or stage of cancer a patient has greatly affects their treatment options. 
+Understanding the Being able to predict and determine the level or stage of cancer a patient has greatly affects their treatment options. 
 ## Description of Data Source:
 This dataset was sourced from Kaggle, a community forum of datasets. It shows the demographic and lifestyle data of 100 lung cancer patients.
 [Link to Data Source](https://www.kaggle.com/rishidamarla/cancer-patients-data)
