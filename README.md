@@ -12,10 +12,20 @@ Database: Doris Tai, Laurencio Leyva
 Dashboard: Alexis Marks, Jesse Singh
 ## Resources
  - Data: [Link to Dataset](https://www.kaggle.com/rishidamarla/cancer-patients-data)
- - Software: Excel, Python, Pandas, Numpy, Matplotlib, Seaborn, Sklearn
+ - Software: 
 
 ## Tools
   - Supervised Machine Learning
+  - SelectKBest from sklearn.feature_selection
+  - train_test_split from sklearn.model_selection
+  - StandardScaler from sklearn.preprocessing
+  - Pipeline from sklearn.pipeline
+  - Support Vector Classification
+  - DecisionTreeClassifier
+  - RandomForestClassifier
+  - 
+
+  
 ## Communication Protocols:
 Zoom and Slack are our main form of communication. We are available throughout the day via slack. We are meeting on Zoom Tuesday nights. In addition, we have also exchanged email addresses and phone numbers.  
 
