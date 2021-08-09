@@ -27,7 +27,7 @@ Dashboard: Alexis Marks, Jesse Singh
 
   
 ## Communication Protocols:
-Zoom and Slack are our main form of communication. We are available throughout the day via slack. We are meeting on Zoom Tuesday nights. In addition, we have also exchanged email addresses and phone numbers.  
+We will primarily communicate through the Zoom and Slack platforms.  We have scheduled a Zoom call on Tuesday nights and confirmed everyone is available throughout the day via Slack.  In addition, we have exchanged email addresses and phone numbers as alternative forms of communication. 
 
 ## Topic:
 Susceptibility to lung cancer based on lifestyle and demographic variables such as age, gender, alcohol use, genetic risk, and smoking. 
