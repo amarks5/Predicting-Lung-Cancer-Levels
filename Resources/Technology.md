@@ -1,12 +1,13 @@
 # Technologies Used
+
 ## Data Cleaning and Analysis
-Pandas will be used to clean the data and perform an exploratory analysis. Further analysis will be completed using Python.
+Python will be used to clean the data and perform exploratory data analysis. Further analysis will be completed using SQL.
 
 ## Database Storage
-A CSV storage engine may be used. 
+We will use SQL and SQLAlchemy. 
 
 ## Machine Learning
-We started with a supervised learning model and now we are leaning towards an unsupervised learning model.
+We will use feautre seleciton and a supervised machine learning model.
 
 ## Dashboard
 A survey dashboard with html or Tableau. 
