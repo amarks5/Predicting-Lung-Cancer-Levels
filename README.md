@@ -1,4 +1,4 @@
-# final_project
+# Predicting_Lung_Cancer_Levels
 
 ## Work Breakdown by Team Member:
 Presentation: Alexis Marks, Jesse Singh
