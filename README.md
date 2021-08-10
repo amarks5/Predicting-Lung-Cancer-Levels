@@ -11,8 +11,7 @@ Database: Doris Tai, Laurencio Leyva
 
 Dashboard: Alexis Marks, Jesse Singh
 ## Resources
- - Data: [Link to Dataset](https://www.kaggle.com/rishidamarla/cancer-patients-data)
- - Software: 
+ - Data: [Link to Dataset](https://www.kaggle.com/rishidamarla/cancer-patients-data) 
 
 ## Tools
   - Supervised Machine Learning
@@ -23,7 +22,6 @@ Dashboard: Alexis Marks, Jesse Singh
   - Support Vector Classification (categorical data) 
   - DecisionTreeClassifier(categorical data)
   - RandomForestClassifier(categorical data)
-  - 
 
   
 ## Communication Protocols:
