@@ -10,6 +10,7 @@ Machine Learning Model: Ali Ahrabi, Laurencio Leyva
 Database: Doris Tai, Laurencio Leyva
 
 Dashboard: Alexis Marks, Jesse Singh
+
 ## Resources
  - Data: [Link to Dataset](https://www.kaggle.com/rishidamarla/cancer-patients-data) 
 
