@@ -24,7 +24,7 @@ Dashboard: Alexis Marks, Jesse Singh
   - DecisionTreeClassifier(categorical data)
   - RandomForestClassifier(categorical data)
 
-  
+
 ## Communication Protocols:
 We will primarily communicate through the Zoom and Slack platforms.  We have scheduled a Zoom call on Tuesday nights and confirmed everyone is available throughout the day via Slack.  In addition, we have exchanged email addresses and phone numbers as alternative forms of communication. 
 
