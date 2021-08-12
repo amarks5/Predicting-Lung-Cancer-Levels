@@ -29,7 +29,7 @@ Dashboard: Alexis Marks, Jesse Singh
 We will primarily communicate through the Zoom and Slack platforms.  We have scheduled a Zoom call on Tuesday nights and confirmed everyone is available throughout the day via Slack.  In addition, we have exchanged email addresses and phone numbers as alternative forms of communication. 
 
 ## Topic:
-The susceptibility to lung cancer based on the following 23 lifestyle and demographic variables: age, gender, air pollution, alcohol use, dust allergy, occupational hazards, genetic risk, chronic lung disease, balanced diet, obesity, smoking, passive smoker, chest pain, coughing of blood, fatigue, weight loss, shortness of breath, wheezing, swallowing difficulty, clubbing of finger nails, frequent cold, dry cough, and snoring.  
+The susceptibility to lung cancer based on the following 24 lifestyle and demographic variables: age, gender, air pollution, alcohol use, dust allergy, occupational hazards, genetic risk, chronic lung disease, balanced diet, obesity, smoking, passive smoker, chest pain, coughing of blood, fatigue, weight loss, shortness of breath, wheezing, swallowing difficulty, clubbing of finger nails, frequent cold, dry cough, and snoring.  
 
 ## Reason For Topic:
 The ability to predict and determine the level of lung cancer of a patient will add significant clinical value for the development of therapies to treat and diagnose the disease. 
