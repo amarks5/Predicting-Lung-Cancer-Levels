@@ -9,7 +9,8 @@ Machine Learning Model: Ali Ahrabi, Laurencio Leyva
 
 Database: Doris Tai, Laurencio Leyva
 
-Dashboard: Alexis Marks, Jesse Singh
+Dashboard: Alexis Marks - Visualizations for Symptoms vs. Level of Cancer, Gender vs. Level of Cancer, Lifestyle Choices vs. Level of Cancer 
+           Jesse Singh - 
 
 ## Resources
  - Data: [Link to Dataset](https://www.kaggle.com/rishidamarla/cancer-patients-data) 
@@ -44,5 +45,5 @@ Which aspects of a person's lifestyle would make them most susceptible to lung c
 ## Google Slide Presentation
 [Link to Google Slides](https://docs.google.com/presentation/d/1guxs3ptq4deP423Sn5jP52Q2Tn-MhQibTpFD0THmf88/edit?usp=sharing)
 
-[Link to Dashboard]()
+[Link to Dashboard](https://public.tableau.com/app/profile/alexis.marks/viz/Segment3_Dashboard_Draft/Dashboard1?publish=yes)
 * Storyboard on Google Slides
