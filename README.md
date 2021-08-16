@@ -26,3 +26,5 @@ This dataset was sources from Kaggle, a community form of datasets. It shows the
 
 ## Questions to Answer:
 Based on symptoms and demographics, can we predict what is the severity of a patient's lung cancer?
+
+https://docs.google.com/presentation/d/1guxs3ptq4deP423Sn5jP52Q2Tn-MhQibTpFD0THmf88/edit?usp=sharing
