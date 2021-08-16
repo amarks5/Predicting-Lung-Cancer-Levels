@@ -33,8 +33,6 @@ It gives the value of true positive and false negative which will help to predic
 -Cross-validation of the ML model
 -Saving model for deployment by unsig pickle
 
-## Communication Protocols:
-We will primarily communicate through the Zoom and Slack platforms.  We have scheduled a Zoom call on Tuesday nights and confirmed everyone is available throughout the day via Slack.  In addition, we have exchanged email addresses and phone numbers as alternative forms of communication. 
 
 ## Topic:
 The susceptibility to lung cancer based on the following 24 lifestyle and demographic variables: age, gender, air pollution, alcohol use, dust allergy, occupational hazards, genetic risk, chronic lung disease, balanced diet, obesity, smoking, passive smoker, chest pain, coughing of blood, fatigue, weight loss, shortness of breath, wheezing, swallowing difficulty, clubbing of finger nails, frequent cold, dry cough, and snoring.  
