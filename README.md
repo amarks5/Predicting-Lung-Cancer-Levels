@@ -13,9 +13,7 @@ Database: Doris Tai, Laurencio Leyva
  - Data: cancer_patient_data_sets.xlsx(https://data.world/cancerdatahp/lung-cancer-data/workspace/file?filename=cancer+patient+level%20data+sets.xlsx)
  - Software:
  - Presentation: [Google Slide](https://docs.google.com/presentation/d/1guxs3ptq4deP423Sn5jP52Q2Tn-MhQibTpFD0THmf88/edit?usp=sharing) 
- 
-## Communication Protocols:
-Zoom and Slack are our main form of communication. We are available throughout the day via slack. We are meeting on Zoom Tuesday nights. In addition, we have also exchanged email addresses and phone numbers.  
+
 
 ## Topic:
 Patient's lung cancer severity level
