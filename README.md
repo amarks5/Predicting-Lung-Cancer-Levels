@@ -20,11 +20,18 @@ Dashboard: Alexis Marks - Visualizations for Symptoms vs. Level of Cancer, Gende
   - SelectKBest from sklearn.feature_selection
   - train_test_split from sklearn.model_selection
   - StandardScaler from sklearn.preprocessing
-  - Pipeline from sklearn.pipeline
-  - Support Vector Classification (categorical data) 
-  - DecisionTreeClassifier(categorical data)
-  - RandomForestClassifier(categorical data)
-
+  - Machine Learning Model Building
+  - 1.Suppor vector Classifier
+  - 2.Logistic Regression
+  - 3.Decision Tree Classifier
+## Grid search
+-Applying grid search on the model which works on whole data.
+As,we are getting the nearly same accuracy after applying these tuning method so we will use grid search in this know comes the part of classification report and types of error.
+-Confusion matrix
+It gives the value of true positive and false negative which will help to predict how much our model is optimized to predict it
+-Classification report of the model
+-Cross-validation of the ML model
+-Saving model for deployment by unsig pickle
 
 ## Communication Protocols:
 We will primarily communicate through the Zoom and Slack platforms.  We have scheduled a Zoom call on Tuesday nights and confirmed everyone is available throughout the day via Slack.  In addition, we have exchanged email addresses and phone numbers as alternative forms of communication. 
