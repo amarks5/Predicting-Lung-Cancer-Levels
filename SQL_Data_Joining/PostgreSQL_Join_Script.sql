@@ -31,7 +31,7 @@ COPY symptom_scores(Patient_Id, Age, Gender, Air_Pollution, Alcohol_use, Dust_Al
 			  Balanced_Diet, Obesity, Smoking, Passive_Smoker, Chest_Pain, Coughing_of_Blood, Weight_Loss, Shortness_of_Breath, Wheezing, Swallowing_Difficulty,
 			  Clubbing_of_Finger_Nails, Frequent_Cold, Dry_Cough, Snoring)
 FROM '../Resources/symptoms_score_for_postgresql.csv'
-DELIMTER','
+DELIMTER ','
 CSV HEADER;
 
 -- Create table contains patient level and average scores --
@@ -44,7 +44,7 @@ CREATE TABLE level_avg_scores(
 -- Impot csv into the table --
 COPY level_avg_scores(Patient_Id, level, Score)
 FROM '../Resources/patient_level_score_for_postgresql.csv'
-DELIMTER','
+DELIMTER ','
 CSV HEADER;
 
 -- Remove unwanted row --
