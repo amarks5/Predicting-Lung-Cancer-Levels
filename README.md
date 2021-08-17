@@ -9,8 +9,7 @@ Machine Learning Model: Ali Ahrabi, Laurencio Leyva
 
 Database: Doris Tai, Laurencio Leyva
 
-Dashboard: Alexis Marks - Visualizations for Symptoms vs. Level of Cancer, Gender vs. Level of Cancer, Lifestyle Choices vs. Level of Cancer 
-           
+Dashboard: Alexis Marks - Visualizations for Symptoms vs. Level of Cancer, Gender vs. Level of Cancer, Lifestyle Choices vs. Level of Cancer,   
            Jesse Singh - 
 
 ## Resources
