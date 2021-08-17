@@ -26,12 +26,26 @@ CREATE TABLE symptom_scores(
 	Snoring VARCHAR(100)
 );
 
+-- Impot csv into the table --
+COPY symptom_scores(Patient_Id, Age, Gender, Air_Pollution, Alcohol_use, Dust_Allergy, OccuPational_Hazards, Genetic_Risk, chronic_Lung_Disease,
+			  Balanced_Diet, Obesity, Smoking, Passive_Smoker, Chest_Pain, Coughing_of_Blood, Weight_Loss, Shortness_of_Breath, Wheezing, Swallowing_Difficulty,
+			  Clubbing_of_Finger_Nails, Frequent_Cold, Dry_Cough, Snoring)
+FROM '../Resources/symptoms_score_for_postgresql.csv'
+DELIMTER','
+CSV HEADER;
+
 -- Create table contains patient level and average scores --
 CREATE TABLE level_avg_scores(
 	Patient_Id VARCHAR(100),
 	level VARCHAR(100),
 	Score VARCHAR(100)
 );
+
+-- Impot csv into the table --
+COPY level_avg_scores(Patient_Id, level, Score)
+FROM '../Resources/patient_level_score_for_postgresql.csv'
+DELIMTER','
+CSV HEADER;
 
 -- Remove unwanted row --
 SELECT * FROM symptom_scores;
