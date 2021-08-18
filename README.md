@@ -1,19 +1,23 @@
 # Predicting_Lung_Cancer_Levels
 
 ## Work Breakdown by Team Member:
-Presentation: Alexis Marks, Jesse Singh
+Presentation: Alexis Marks, Jesse Singh, Laurencio Leyva
 
 Github Setup: Alexis Marks, Jesse Singh
 
 Machine Learning Model: Ali Ahrabi, Laurencio Leyva
 
-Database: Doris Tai, Laurencio Leyva
+Database: 
+  - Doris Tai - Exploaratory Data Analysis, SQL schema and SQL scripts.
+  - Laurencio Leyva - Exploratory Data Analysisa and export to SQL Database.
 
-Dashboard: Alexis Marks - Visualizations for Symptoms vs. Level of Cancer, Gender vs. Level of Cancer, Lifestyle Choices vs. Level of Cancer,   
-           Jesse Singh - 
+Dashboard: 
+  - Alexis Marks - Visualizations for Symptoms vs. Level of Cancer, Gender vs. Level of Cancer, and Lifestyle Choices vs. Level of Cancer.   
+  - Jesse Singh - Visualizations for Symptoms vs. Level of Cancer and Lifestyle vs. Level of Cancer. 
 
 ## Resources
- - Data: [Link to Dataset](https://www.kaggle.com/rishidamarla/cancer-patients-data) 
+  - Data: [Link to Dataset](https://www.kaggle.com/rishidamarla/cancer-patients-data) 
+  - Description of Data Source: This dataset was sourced from Kaggle, a community forum of datasets. It shows the demographic and lifestyle data of 100 lung cancer patients.
 
 ## Tools
   - Supervised Machine Learning
@@ -21,28 +25,22 @@ Dashboard: Alexis Marks - Visualizations for Symptoms vs. Level of Cancer, Gende
   - train_test_split from sklearn.model_selection
   - StandardScaler from sklearn.preprocessing
   - Machine Learning Model Building
-  - 1.Suppor vector Classifier
-  - 2.Logistic Regression
-  - 3.Decision Tree Classifier
-## Grid search
--Applying grid search on the model which works on whole data.
-As,we are getting the nearly same accuracy after applying these tuning method so we will use grid search in this know comes the part of classification report and types of error.
--Confusion matrix
-It gives the value of true positive and false negative which will help to predict how much our model is optimized to predict it
--Classification report of the model
--Cross-validation of the ML model
--Saving model for deployment by unsig pickle
-
+    1. Suppor vector Classifier
+    2. Logistic Regression
+    3. Decision Tree Classifier
+  
+## Grid Search
+  - Grid search incorporates the entire data set and was used to tune our ML model. The accuracy of this tuning method was optimized by the confusion matrix, classification report and cross-validation.
+  - Confusion matrix gives the value of true positive and false negative which helped to predict how much our model is optimized to predict.
+  - Classification report was used as a performance evaluation metric for the quality of our models' predictions.
+  - Cross-validation was used to evaluate the ML model through a limited data sample. 
+  - Saving model for deployment by using pickle
 
 ## Topic:
-The susceptibility to lung cancer based on the following 24 lifestyle and demographic variables: age, gender, air pollution, alcohol use, dust allergy, occupational hazards, genetic risk, chronic lung disease, balanced diet, obesity, smoking, passive smoker, chest pain, coughing of blood, fatigue, weight loss, shortness of breath, wheezing, swallowing difficulty, clubbing of finger nails, frequent cold, dry cough, and snoring.  
+The susceptibility to lung cancer based on the following 24 lifestyle and demographic variables: age, gender, air pollution, alcohol use, dust allergy, occupational hazards, genetic risk, chronic lung disease, balanced diet, obesity, smoking, passive smoker, chest pain, coughing of blood, fatigue, weight loss, shortness of breath, wheezing, swallowing difficulty, clubbing of fingernails, frequent cold, dry cough, and snoring.  
 
 ## Reason For Topic:
 The ability to predict and determine the level of lung cancer of a patient will add significant clinical value for the development of therapies to treat and diagnose the disease. 
-
-## Description of Data Source:
-This dataset was sourced from Kaggle, a community forum of datasets. It shows the demographic and lifestyle data of 100 lung cancer patients.
-[Link to Data Source](https://www.kaggle.com/rishidamarla/cancer-patients-data)
 
 ## Questions to Answer:
 Which aspects of a person's lifestyle would make them most susceptible to lung cancer? We analyzed the data of 1000 lung cancer patients with respect to different parameters such as their age, gender, alcohol use, genetic risk, and smoking. The purpose is to predict which lifestyle choices would lead to lung cancer.
