@@ -1,6 +1,6 @@
 # Predicting_Lung_Cancer_Levels
 
-## Work Breakdown by Team Member:
+## Work Breakdown by Team Member
 Presentation: Alexis Marks, Jesse Singh, Laurencio Leyva
 
 Github Setup: Alexis Marks, Jesse Singh
@@ -36,13 +36,13 @@ Dashboard:
   - Cross-validation was used to evaluate the ML model through a limited data sample. 
   - Saving model for deployment by using pickle
 
-## Topic:
+## Topic
 The susceptibility to lung cancer based on the following 24 lifestyle and demographic variables: age, gender, air pollution, alcohol use, dust allergy, occupational hazards, genetic risk, chronic lung disease, balanced diet, obesity, smoking, passive smoker, chest pain, coughing of blood, fatigue, weight loss, shortness of breath, wheezing, swallowing difficulty, clubbing of fingernails, frequent cold, dry cough, and snoring.  
 
-## Reason For Topic:
+## Reason For Topic
 The ability to predict and determine the level of lung cancer of a patient will add significant clinical value for the development of therapies to treat and diagnose the disease. 
 
-## Questions to Answer:
+## Questions to Answer
 Which aspects of a person's lifestyle would make them most susceptible to lung cancer? We analyzed the data of 1000 lung cancer patients with respect to different parameters such as their age, gender, alcohol use, genetic risk, and smoking. The purpose is to predict which lifestyle choices would lead to lung cancer.
 
 ## Google Slide Presentation
