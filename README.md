@@ -9,7 +9,7 @@ Machine Learning Model: Ali Ahrabi, Laurencio Leyva
 
 Database: 
   - Doris Tai - Exploaratory Data Analysis, SQL schema and SQL scripts.
-  - Laurencio Leyva - Exploratory Data Analysisa and export to SQL Database.
+  - Laurencio Leyva - Exploratory Data Analysis and export to SQL database.
 
 Dashboard: 
   - Alexis Marks - Visualizations for Symptoms vs. Level of Cancer, Gender vs. Level of Cancer, and Lifestyle Choices vs. Level of Cancer.   
