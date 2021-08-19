@@ -20,6 +20,7 @@ Dashboard:
   - Description of Data Source: This dataset was sourced from Kaggle, a community forum of datasets. It shows the demographic and lifestyle data of 100 lung cancer patients.
 
 ## Tools
+  - Tableau
   - Supervised Machine Learning
   - SelectKBest from sklearn.feature_selection
   - train_test_split from sklearn.model_selection
