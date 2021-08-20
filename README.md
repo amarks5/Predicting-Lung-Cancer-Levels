@@ -51,6 +51,8 @@ Which aspects of a person's lifestyle would make them most susceptible to lung c
 - A combination of alcohol abuse, bad diet, occupational hazards, and smoking were the most prevalent lifestyle attributes of patients with high level lung cancer.
 - Created a model that can be used to accurately predict cancer susceptibility based on a patient's lifestyle and symptom information.
 
+## Recommendations for Future Analysis
+
 ## Google Slide Presentation
 [Link to Google Slides](https://docs.google.com/presentation/d/1guxs3ptq4deP423Sn5jP52Q2Tn-MhQibTpFD0THmf88/edit?usp=sharing)
 
