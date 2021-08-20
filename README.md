@@ -8,7 +8,7 @@ Github Setup: Alexis Marks, Jesse Singh
 Machine Learning Model: Ali Ahrabi, Laurencio Leyva
 
 Database: 
-  - Doris Tai - Exploaratory Data Analysis, SQL schema and SQL scripts.
+  - Doris Tai - Exploratory Data Analysis, SQL schema and SQL scripts.
   - Laurencio Leyva - Exploratory Data Analysis and import to SQL database.
 
 Dashboard: 
@@ -26,7 +26,7 @@ Dashboard:
   - train_test_split from sklearn.model_selection
   - StandardScaler from sklearn.preprocessing
   - Machine Learning Model Building
-    1. Suppor vector Classifier
+    1. Support vector Classifier
     2. Logistic Regression
     3. Decision Tree Classifier
   
