@@ -47,6 +47,7 @@ The ability to predict and determine the level of lung cancer of a patient will 
 Which aspects of a person's lifestyle would make them most susceptible to lung cancer? We analyzed the data of 1000 lung cancer patients with respect to different parameters such as their age, gender, alcohol use, genetic risk, and smoking. The purpose is to predict which lifestyle choices would lead to lung cancer.
 
 ## Results of Analysis
+- Chest pain and coughing of blood were the most prevalent symptoms among patients with high level lung cancer.
 
 ## Google Slide Presentation
 [Link to Google Slides](https://docs.google.com/presentation/d/1guxs3ptq4deP423Sn5jP52Q2Tn-MhQibTpFD0THmf88/edit?usp=sharing)
