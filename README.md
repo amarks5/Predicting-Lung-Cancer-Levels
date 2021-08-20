@@ -52,6 +52,7 @@ Which aspects of a person's lifestyle would make them most susceptible to lung c
 - Created a model that can be used to accurately predict cancer susceptibility based on a patient's lifestyle and symptom information.
 
 ## Recommendations for Future Analysis
+- Limited dataset. As more data is introduced, the model might have to be reevaluated.
 
 ## Google Slide Presentation
 [Link to Google Slides](https://docs.google.com/presentation/d/1guxs3ptq4deP423Sn5jP52Q2Tn-MhQibTpFD0THmf88/edit?usp=sharing)
