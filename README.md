@@ -56,6 +56,7 @@ Which aspects of a person's lifestyle would make them most susceptible to lung c
 - Change scale to 0-5 instead of 0-10.
 
 ## Anything Team Would Have Done Differently
+- Try to make age and gender more relevant factors to make our model more useful.
 
 ## Google Slide Presentation
 [Link to Google Slides](https://docs.google.com/presentation/d/1guxs3ptq4deP423Sn5jP52Q2Tn-MhQibTpFD0THmf88/edit?usp=sharing)
